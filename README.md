@@ -1,6 +1,6 @@
 # MovieRestAPI
 
-Created REST API using Spring Boot and Postman for Movie entity supporting all CRUD operations.
+Created a RESTful API using Spring Boot and Postman for Movie entity supporting all CRUD operations.
 
 Screenshots :
 
