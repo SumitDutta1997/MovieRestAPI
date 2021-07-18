@@ -6,8 +6,8 @@ import org.springframework.context.annotation.Configuration;
 import java.util.ArrayList;
 import java.util.List;
 
-@Configuration
-public class configuration {
+@org.springframework.context.annotation.Configuration
+public class Config {
 
     @Bean
     List<Movie> movieList(){
